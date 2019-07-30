@@ -1,0 +1,14 @@
+body{
+    background-color: powderblue;
+    padding-left: 100px;
+    font-family: 'Space Mono', monospace;
+    font-size: 18px;
+}
+
+span{
+    color:#ff0066;
+}
+
+form{
+    font-size: 18px;
+}
